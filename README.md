@@ -1,2 +1,2 @@
-# Loon-Config
+# Proxy-Config
 Personalized configuration~
